@@ -5,7 +5,7 @@ Sign up, create a new bookmark, add a note, share it with other users, categoriz
 • Wrote back end with PHP, notification feature with AJAX, and front end with Materialize CSS.  
 • Users can sign up, get notifications, categorize their bookmarks, and search keywords. The platform only allows valid URL addresses.  
 
-FEATURES
+FEATURES  
 -Sign in.  
 -Edit your profile.  
 -Add a profile image.  
