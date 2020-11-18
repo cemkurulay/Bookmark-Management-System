@@ -19,13 +19,14 @@ FEATURES
 -Get notified when others share bookmarks with you.  
 -Add shared bookmarks to your bookmarks.  
 
-HOW TO RUN
--Download WAMP server
--Unzip the files 
--Copy the unzipped file into C:/Wamp64/www
--Run the WAMP server
--Make sure that the WAMP icon in the windows icons bar is green
--Open your browser
--Go to phpmyadmin and import the sql file into the bms database
--Type " localhost/<file_name_here> " to the URL address bar
--Press enter
+HOW TO RUN  
+-Download WAMP server  
+-Unzip the files   
+-Copy the unzipped file into C:/Wamp64/www  
+-Run the WAMP server  
+-Make sure that the WAMP icon in the windows icons bar is green  
+-Open your browser  
+-Go to phpmyadmin and import the sql file into the bms database  
+-Type " localhost/<file_name_here> " to the URL address bar  
+-Press enter  
+  
